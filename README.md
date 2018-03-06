@@ -12,7 +12,7 @@ The objective of this behavioral cloning project is to be able to drive an simul
 1. Data Collection
 2. Data Processing 
 3. Modelling 
-4. Driving in Autonomous mode. 
+
 
 ## Step1 Data Collection 
 1. Center line driving: The first round of data collection just involved driving around the circuit multiple times to get enough data. Followed by training and more data collections. Its easy to realize that this is not enough. The first time the car barely drove on a straight path. 
