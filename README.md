@@ -143,10 +143,12 @@ The generator runs continously returning batches of data for training. This also
 
 
 ## Discussion:
-This was the most nerve wracking as well as fulfilling exercise of all. It almost seemed impossible to training the car to follow the centerline. Its hard to see what changes to make and training time is very large to see get feedback on your changes. 
+This was the most nerve wracking as well as fulfilling exercise of all. It almost seemed impossible to training the car to follow the centerline. Its hard to see what changes to make and training time is very large to see get feedback on your changes. The final result is 
+a feeling a great accomplishment.
 
 I tried running the model on track 2, but it failed. The next step will be to augment dataset with "Shadow augmentation" and  "Brightness augmentation" presented in this [blog](https://chatbotslife.com/using-augmentation-to-mimic-human-driving-496b569760a9)
 
 Although the accuracy of  the model in traning and validation can be measured, it is hard to tell if the model will fail on the real track. This is an interesting characteristic of this problem. Minimization of validation and training loss although good, is not a sign of success. 
 
+[![RESULT](https://img.youtube.com/vi/qkYZLsq2QAc/0.jpg)](https://www.youtube.com/watch?v=qkYZLsq2QAc "Result")
 
